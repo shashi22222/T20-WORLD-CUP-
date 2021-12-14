@@ -27,6 +27,6 @@ Scikit – learn:
 Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python. It is licensed under a permissive simplified BSD license and is distributed under many Linux distributions, encouraging academic and commercial use. Python.
 
 
-#HOME.html
+#HOME PAGE
 
 
