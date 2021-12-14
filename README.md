@@ -1,2 +1,4 @@
 # T20-WORLD-CUP-
 PREDICTION ON 2021 WORLD CUP
+Twenty-20 world cup is the international championship , which is organized by ICC .In this game two teams of 11 Players ,Which has maximum 20 Overs . It has gained popularity since recent years from till now. For this T20 prediction is done to predict the results of game . In this system they only considered previous performances ,rating and clustering of players . This leads to facing problems like Low accuracy , limited dataset and getting incorrect prediction results .To overcome this problem, In our project we are using four-five algorithms by considering parameters such as previous performances , Ranking and Rating of teams , venue and pitch conditions. We compare each of these parameters by using algorithms such as logistic regression , Random forest, KNN, Decision tree ,Naive bayes.
+
