@@ -28,10 +28,16 @@ Scikit-learn provides a range of supervised and unsupervised learning algorithms
 
 
 **#HOME PAGE**
-In the homepage there will be user registeration and logo 
+In the homepage there will be user registeration and logo by using html code we developed the homepage
 ![home1](https://user-images.githubusercontent.com/96109343/145972762-5d1f5f98-8963-4150-a244-b74e8644cc7c.jpg)
 
 ![home2](https://user-images.githubusercontent.com/96109343/145971143-ca4c750d-a40c-4984-a66d-87593a431809.jpg)
+
+
+**SIGNIN**
+in the siginin we have to create account by using html we developed the page
+![signup](https://user-images.githubusercontent.com/96109343/145973940-8005220f-5513-4438-8af9-27b008ca8f0f.jpg)
+
 
 
 
